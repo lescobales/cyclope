@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/prefix">
+        <file>logoGeoid.png</file>
+        <file>arial.ttf</file>
+    </qresource>
+</RCC>
